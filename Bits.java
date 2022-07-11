@@ -11,7 +11,7 @@ public class Bits {
         }else{
             System.out.println("bit was one");
         }
-
+ 
 
         
     }
